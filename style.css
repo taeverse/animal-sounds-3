@@ -1,0 +1,21 @@
+body {
+background-color: lightblue;  
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+font-weight: bold;
+color: white;
+}
+
+.header_div {
+background-color: lightskyblue;  
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+font-weight: bolder;
+color:white
+}
+
+.copy_right_footer {
+background-color: lightskyblue;  
+font-weight: bolder;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: white;
+text-align-last: center;
+}
